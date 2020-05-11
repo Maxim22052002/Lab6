@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\bin\Debug\netcoreapp3.0\Number5(6).exe
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\bin\Debug\netcoreapp3.0\Number5(6).deps.json
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\bin\Debug\netcoreapp3.0\Number5(6).runtimeconfig.json
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\bin\Debug\netcoreapp3.0\Number5(6).runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\bin\Debug\netcoreapp3.0\Number5(6).dll
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\bin\Debug\netcoreapp3.0\Number5(6).pdb
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\obj\Debug\netcoreapp3.0\Number5(6).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\obj\Debug\netcoreapp3.0\Number5(6).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\obj\Debug\netcoreapp3.0\Number5(6).AssemblyInfo.cs
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\obj\Debug\netcoreapp3.0\Number5(6).dll
+C:\Users\USER\source\repos\Number5(6)\Number5(6)\obj\Debug\netcoreapp3.0\Number5(6).pdb
