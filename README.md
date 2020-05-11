@@ -3,4 +3,4 @@
 2. <a href="https://github.com/Maxim22052002/Lab6/tree/master/Number2(6)">Задание на работу с бинарными файлами</a>  
 3. <a href="https://github.com/Maxim22052002/Lab6/tree/master/Number3(6)">Задание на работу с текстовыми файлами</a>  
 4. <a href="https://github.com/Maxim22052002/Lab6/tree/master/Number4(6)">Побайтовое копирование</a>  
-5. <a href="https://github.com/Maxim22052002/Lab6/tree/master/Number5(6)/6.5">Анализ bmp-файла</a>
+5. <a href="https://github.com/Maxim22052002/Lab6/tree/master/Number5(6)">Анализ bmp-файла</a>
