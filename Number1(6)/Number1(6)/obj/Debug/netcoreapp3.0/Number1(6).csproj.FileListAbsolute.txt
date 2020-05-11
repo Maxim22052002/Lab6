@@ -1,0 +1,44 @@
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).exe
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).deps.json
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.json
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfo.cs
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\source\repos\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).exe
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).deps.json
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.json
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfo.cs
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\Desktop\Дистанционное обучение\Программирование\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).exe
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).deps.json
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.json
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\Desktop\Lab 6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).exe
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).deps.json
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.json
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\bin\Debug\netcoreapp3.0\Number1(6).pdb
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).dll
+C:\Users\USER\Desktop\Lab6\Number1(6)\Number1(6)\obj\Debug\netcoreapp3.0\Number1(6).pdb
